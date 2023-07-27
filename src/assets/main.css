@@ -1,0 +1,10 @@
+#app {
+  margin: 1rem auto;
+  max-width: 800px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: rgba(101, 82, 66, 0.2);
+  }
+}
